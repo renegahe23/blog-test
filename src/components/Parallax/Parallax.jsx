@@ -5,7 +5,7 @@ import classNames from "classnames";
 import PropTypes from "prop-types";
 // @material-ui/core components
 import withStyles from "@material-ui/core/styles/withStyles";
-
+const module = typeof window !== `undefined` ? require("module") : null
 // core components
 import parallaxStyle from "assets/jss/material-kit-pro-react/components/parallaxStyle.jsx";
 
