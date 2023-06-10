@@ -34,7 +34,7 @@
     "classnames": "^2.2.6",
     "core-js": "^2.6.11",
     "eslint": "^5.16.0",
-    "gatsby": "^2.19.8",
+    "gatsby": "^4.25.7",
     "gatsby-cli": "^2.8.27",
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-offline": "^2.2.10",
